@@ -4,7 +4,7 @@
 `大数据`, `Linux`,`Docker`, `Nginx`, `HTML`,` 面试`, `计算机组成原理`, `数据安全`, `MySQL`, `MongoDB` , `Spring Cloud` ，`ZooKeeper`，`Netty` ，`设计模式` ，
 `Spring Batch` ，`Spring Boot` ，`Spring` ，`架构` ，`重构` ，`性能测试` 等等等，总共有近1000本书。
 
-以下只是所有书籍的一小部分，如未找到你想要的，你可以跳转 [https://fire00.top](https://fire00.top) 检索
+以下只是所有书籍的一小部分，如未找到你想要的，你可以跳转 [https://fire100.top](https://fire100.top) 检索
 
 ![img_1.png](img_1.png)
 
