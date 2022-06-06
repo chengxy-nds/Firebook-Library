@@ -21,11 +21,11 @@
 
 ### Java
 
-[Java从入门到精通（第3版）（光盘内容另行下载 ，地址见书封底）](http://baidu.com) ，提取码：1223
+[Java并发编程的艺术](https://pan.baidu.com/s/19vG6Dd3YBr69i6D2NHeCaQ) ，提取码：wv4f
 
 [Java并发编程实战](https://pan.baidu.com/s/1fVRlWNy62Orcv63uSzLMlA) ，提取码：zt0w
 
-[Java并发编程的艺术](https://pan.baidu.com/s/19vG6Dd3YBr69i6D2NHeCaQ) ，提取码：wv4f
+[JavaScript语言精粹(修订版)](https://pan.baidu.com/s/1dy80NaF-LPJyNT7LTJH1WA) ，提取码：yex1
 
 [阿里巴巴Java开发手册(第2版)](https://pan.baidu.com/s/1Q5FgMW1sDVjl-X3x9IgXRg) ，提取码：4xas
 
@@ -45,11 +45,49 @@
 
 [ Java并发编程设计原则与模式](https://pan.baidu.com/s/1o8wfzaDrU4AXquWkiMGZow) ，提取码：npja
 
-[代码整洁之道](https://pan.baidu.com/s/16dHqd4ktLa6FCMB4w-Zgug) ，提取码：nq1n
+[ 数据结构与抽象：Java语言描述（原书第4版）](https://pan.baidu.com/s/1S2zC58QX-mQhGOuJBN35dA) ，提取码：m9eg
 
-[ Activiti权威指南](https://pan.baidu.com/s/1Wjgd0a_CiQVtUEG-JgIKtA) ，提取码：8jef
+[ 数据结构与算法经典问题解析：Java语言描述(原书第2版）](https://pan.baidu.com/s/1RMO6GciB9_25Rqh8JVh4Kw) ，提取码：ga2m
 
-[重构：改善既有代码的设计(第2版)](https://pan.baidu.com/s/1uG3l7lNknos1TfEQj4mVfQ) ，提取码：ywru
+[架构探险 从零开始写javaweb框架](https://pan.baidu.com/s/1T3jO3bQdQE0YkZleGVURNg) ，提取码：wscu
+
+[ Java并发编程从入门到精通](https://pan.baidu.com/s/1KVCMss1BsR83QlpcJkleow) ，提取码：c9cs
+
+[ Java经典实例（第三版）](https://pan.baidu.com/s/1NODKYj_vek_oEADBaT9MzA) ，提取码：zrpl
+
+[ Java网络编程（第四版）](https://pan.baidu.com/s/1RbViJK_ORZnKkjjy_1l0qw) ，提取码：036e
+
+[ Java性能优化权威指南](https://pan.baidu.com/s/1cUGw8oN7V46zIUow3q_6Ew) ，提取码：abi5
+
+[ Java性能调优指南](https://pan.baidu.com/s/1wreGSni5y7h26EXiQ52FkQ) ，提取码：tdw3
+
+[ Java语言导学](https://pan.baidu.com/s/1PTPZXGo47jBi-1EwqQDOmQ) ，提取码：23gt
+
+[ Java语言程序设计（基础篇）（原书第12版）](https://pan.baidu.com/s/1sFOT9TgNJqq0ePFl8ulvFQ) ，提取码：5ibk
+
+[大话Java性能优化](https://pan.baidu.com/s/1s-Ei9OzsdUBVDQYKrX7T5g) ，提取码：jsvr
+
+[揭秘Java虚拟机：JVM设计原理与实现](https://pan.baidu.com/s/1VfZSl4wfxk35sGxaX01GGQ) ，提取码：tcw2
+
+[1000道 Java核心知识 面试宝典](https://pan.baidu.com/s/1E06PHE0X2IrZlwwQQg-71Q) ，提取码：mqoi
+
+[ Effective Java中文版（原书第3版）](https://pan.baidu.com/s/1moNzNVhlTZMRlTUEcNMlxg) ，提取码：rfc7
+
+[Java加密与解密的艺术（第2版）](https://pan.baidu.com/s/1WILNurQGoZDPgERo3GrpeQ) ，提取码：dolc
+
+[Java程序性能优化实战](https://pan.baidu.com/s/1xyxHK9UDshp7Eou1vjob7w) ，提取码：lk8v
+
+[ Java虚拟机规范（Java SE 8版）](https://pan.baidu.com/s/1bF3ypUPbTVAc1TyorNpUjg) ，提取码：kb2a
+
+[ 正版书籍 写给大忙人看的JavaSE8电子工业出版社[美]CayS.Horstma](https://pan.baidu.com/s/19fCS_oYNPpTn9HE-LO5ifA) ，提取码：5oyt
+
+[Java Performance : The Definitive Guide](https://pan.baidu.com/s/16zEU6fnsZMnaG5lqyPD8ww) ，提取码：aw65
+
+[Core Java, Volume II--Advanced Features](https://pan.baidu.com/s/1mtomhSVE9FSQfgyc8ulP7A) ，提取码：4pfb
+
+[JavaScript设计模式与开发实践](https://pan.baidu.com/s/1cdVK75H2PQ1BYuAEH14IFQ ) ，提取码：3w18
+
+[Java设计模式及实践](https://pan.baidu.com/s/133Cqad1MJ4JaKDizSaQmVw) ，提取码：srnr
 
 ### Kotlin
 
@@ -63,6 +101,10 @@
 [用Python写网络爬虫(第2版)](https://pan.baidu.com/s/1C_iRGSyTeuePg86klWS5og) ，提取码：czih
 
 [Python爬虫开发与项目实战](https://pan.baidu.com/s/1EVjGQ7ePdlBvvFc43P8PTQ) ，提取码：ruti
+
+[Python网络爬虫实战](https://pan.baidu.com/s/1OQJnTIX9lpEQCzqOgwUUsw) ，提取码：x9if
+
+[Python编程入门指南(上下册)](https://pan.baidu.com/s/1mYEamjU1Kx5HUOwLAUUV-A) ，提取码：g5zn
 
 ## Spring
 
@@ -140,16 +182,17 @@
 
 ## Redis
 
-[ Redis 深度历险：核心原理与应用实践](https://pan.baidu.com/s/1aG8yO-J6K9jkkzLYpF0SrQ) ，提取码：ocxk
-
 [Redis开发与运维](https://pan.baidu.com/s/1MiFaK2N8E0aLdf4aX695-w) ，提取码：rrpy
 
 [Redis实战](https://pan.baidu.com/s/1wxnRRS_45FIoZE0HG5FCnA) ，提取码：e4sc
 
+[左手MongoDB，右手Redis——从入门到商业实战](https://pan.baidu.com/s/1KVPk6ZqYwzaLDrYZC5NXpw) ，提取码：jj3f
+
 [Redis设计与实现](https://pan.baidu.com/s/13P6K4KzlZG3I2wjjAjluHg) ，提取码：okil
 
-[左手MongoDB ，右手Redis——从入门到商业实战](https://pan.baidu.com/s/1KVPk6ZqYwzaLDrYZC5NXpw) ，提取码：jj3f
+[ Redis 深度历险：核心原理与应用实践](https://pan.baidu.com/s/1aG8yO-J6K9jkkzLYpF0SrQ) ，提取码：ocxk
 
+[Redis入门指南](https://pan.baidu.com/s/1LoAJ0ZlKElL2TFuch38Rsw) ，提取码：pmep
 
 ## ZooKeeper
 
@@ -197,17 +240,52 @@
 
 ## Docker
 
-[Docker实战](https://pan.baidu.com/s/1Lyi9m9MQ7FaJFgt70mMVfg) ，提取码：wd6x
-
 [第一本Docker书 修订版](https://pan.baidu.com/s/1EUkitR2A4dYbTHEjXHNCpA) ，提取码：yu7h
 
 [Docker技术入门与实战](https://pan.baidu.com/s/107HBKT655KaHg99S9l8w0w) ，提取码：k1ci
 
+[Spring Cloud与Docker微服务架构实战](https://pan.baidu.com/s/1s0kSQv1PlUN-vCfZKAlCGA) ，提取码：411q
+
+[Docker技术入门与实战(第2版)](https://pan.baidu.com/s/1CiByHKAJ-0esh-gRb4YQjA ) ，提取码：0j4y
+
+[Docker开发指南](https://pan.baidu.com/s/1_sZWAH0HS7ZRHvCXcVsLEg) ，提取码：eo9u
+
 ## MYSQL
 
-[MySQL必知必会](111) ，提取码：11
+[MySQL必知必会](https://pan.baidu.com/s/15hcVf3b4qHtoiLKmWg6GdA) ，提取码：eptx
 
 [高性能MySQL(第3版)](https://pan.baidu.com/s/1kboC1x-RFT5nZRE9zj5Llg) ，提取码：eom3
+
+[MySQL性能调优与架构设计](https://pan.baidu.com/s/1Y_SGIBwiav11eeTGPiLb7Q) ，提取码：nbd5
+
+[MySQL技术内幕：InnoDB存储引擎(第2版)](https://pan.baidu.com/s/1EYIIYvwwfufifH1QWdaPqw) ，提取码：l0ij
+
+[ MySQL技术内幕:InnoDB存储引擎](https://pan.baidu.com/s/10sRLE9KDUogBzlTFb-06jg) ，提取码：nqyw
+
+[SQL学习指南(第2版)(修订版)](https://pan.baidu.com/s/1iYKE0Vst8o6JIaoHTtdAzg ) ，提取码：fn1f
+
+[深入浅出MySQL：数据库开发、优化与管理维护(第2版)](https://pan.baidu.com/s/1Kky9OSKlD8PLx6qG-kCyHA) ，提取码：4mj4
+
+[MySQL从入门到项目实践：超值版](https://pan.baidu.com/s/18iW0vGOMUuaulubUnjYa2A) ，提取码：kc5l
+
+[MySQL 8 Cookbook(中文版)](https://pan.baidu.com/s/1s9qaEFb3N8DVSNnEKbCUhQ) ，提取码：78gt
+
+[ MySQL经典实例（第三版）](https://pan.baidu.com/s/1U2H67-UAEsHv8POas0RIrQ) ，提取码：0clj
+
+[ MySQL内核:InnoDB存储引擎卷1](https://pan.baidu.com/s/11pTAqYdpTqefvpkQaWovCg) ，提取码：c088
+
+[MySQL是怎样运行的：从根儿上理解 MySQL](https://pan.baidu.com/s/1QyrIEzBWOyDPI4isS1te6Q) ，提取码：p3xn
+
+[MySQL管理之道：性能调优、高可用与监控（第2版）](https://pan.baidu.com/s/1TcKijgKK_Yl2E0PRuZ0sxw) ，提取码：giqn
+
+[ MySQL技术内幕（第5版）](https://pan.baidu.com/s/1o8AkQS_VVhb0rqZV8_OVMg) ，提取码：59og
+
+[MySQL技术内幕：SQL编程](https://pan.baidu.com/s/1Dup8jic442az9XMkvR7r4w) ，提取码：tflv
+
+[SQL经典实例(第2版)](https://pan.baidu.com/s/1qwK5Dj5Mmrz7O8EFf7kpqQ) ，提取码：12lw
+
+[ SQL注入攻击与防御(第2版)（安全技术经典译丛）](https://pan.baidu.com/s/1XNgexVLxJt-3GeLyysme3Q) ，提取码：kc1l
+
 
 ## HTTP && 操作系统
 
